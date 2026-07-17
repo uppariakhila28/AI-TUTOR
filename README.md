@@ -1,4 +1,4 @@
-# AI-TUTOR
+# AI TUTOR
 from google import genai
 import gradio as gr
 
